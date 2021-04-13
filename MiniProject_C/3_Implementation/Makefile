@@ -1,9 +1,9 @@
 PROJECT_NAME = all.exe
 SRC = Snake-Game.c\
-src\draw.c\
-src\input.c\
-src\logic.c\
-src\setup.c
+\draw.c\
+\input.c\
+\logic.c\
+\setup.c
 
 INC = inc
 
