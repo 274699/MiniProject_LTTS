@@ -1,7 +1,9 @@
 PROJECT_NAME = all.exe
-SRC = test.c\
-src\sum.c\
-src\sqr.c
+SRC = Snake-Game.c\
+src\draw.c\
+src\input.c\
+src\logic.c\
+src\setup.c
 
 INC = inc
 
