@@ -1,5 +1,5 @@
 PROJECT_NAME = snake
-SRC = Snake-Game.c\
+SRC = main.c\
 src\draw.c\
 src\input.c\
 src\logic.c\
