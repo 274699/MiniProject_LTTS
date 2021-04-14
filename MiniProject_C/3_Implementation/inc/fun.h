@@ -1,3 +1,14 @@
+/**
+ * @file fun.h
+ * @author Vishal_274699 
+ * @brief header file for the functions in snake game
+ * @version 0.1
+ * @date 2021-04-12
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+
 #ifndef __FUN_H__
 #define __FUN_H__
 
