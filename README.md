@@ -1,6 +1,6 @@
 # **SNAKE GAME**
 
-![Images](/6_ImagesAndVideos/front paage.png)
+![Images](6_ImagesAndVideos/front paage.png)
 ## Folder Structure
 
 Folder             | Description
