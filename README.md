@@ -1,7 +1,6 @@
 # **SNAKE GAME**
 
-![](6_ImagesAndVideos/front paage.png)
-
+![Images](5_ImagesandVideos/tictactoe1.png)
 ## Folder Structure
 
 Folder             | Description
