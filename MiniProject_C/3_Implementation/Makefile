@@ -1,6 +1,5 @@
 PROJECT_NAME = snake
-SRC = main.c\
-src\draw.c\
+SRC = src\draw.c\
 src\input.c\
 src\logic.c\
 src\setup.c
@@ -18,12 +17,22 @@ else
 	  EXE = out
    endif
 endif
+.PHONY: run clean test doc all
 
 $(PROJECT_NAME): $(SRC)
-	gcc -I $(INC) $(SRC) -o $(call FixPath,$(PROJECT_NAME).$(EXE))
+	gcc -I $(INC) $(SRC) main.c -o $(call FixPath,$(PROJECT_NAME).$(EXE))
 	
 run: $(PROJECT_NAME)
 	$(call FixPath,$(PROJECT_NAME).$(EXE))
+	
+cppcheck:	
+	cppcheck --enable=all $(SRC) main.c
+
+debug:
+	gcc -I $(INC) $(SRC) main.c -g -o $(PROJECT_NAME).$(EXE)
+	gdb $(PROJECT_NAME).$(EXE)
+
+
 	
 clean:
 	$(RM) /q *.$(EXE)
