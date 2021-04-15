@@ -1,3 +1,4 @@
+[![Code Quality - Static Code - Cppcheck](https://github.com/274699/MiniProject_Template/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/274699/MiniProject_Template/actions/workflows/cppcheck.yml)
 # Project Information
 ## **SNAKE GAME**
 
