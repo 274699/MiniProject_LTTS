@@ -8,7 +8,7 @@
 
 Snake first appeared in 1997 on the Nokia 6110, along with the games Logic and Memory. It was programmed by Taneli Armanto, a design engineer in Nokia. The concept originated from the 1976 arcade game ‘Blockade’, developed and published by Gremlin.Snake first featured on Nokia handsets in the late 90s and since then has appeared on over 400 million phones. Users will no longer have to dig out their old handsets to get their nostalgia fix, instead HMD Global invites the world to unite through the free game and challenge friends to play, using Facebook’s Instant Games platform.
 
-![Images](images/three.png)
+![Images](https://github.com/274699/MiniProject_Template/blob/d8bf4af389008190d0c922402afc9e51e40a0731/MiniProject_C/6_ImagesAndVideos/history_nokia.jpg)
 
 ### **SWOT Analysis**
 
