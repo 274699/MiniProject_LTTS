@@ -16,4 +16,4 @@ jobs:
     - name: make
       run: make -C 3_Implementation/ all
       
-workflow_dispatch
+workflow_dispatch :
