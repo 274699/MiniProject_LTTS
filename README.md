@@ -1,18 +1,34 @@
-# STEPin MiniProject_Template Sample
+# **SNAKE GAME**
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b20c7c3ec7f4734b42cc0d04dcf3fb2)](https://app.codacy.com/manual/stepin654321/MiniProject_Template?utm_source=github.com&utm_medium=referral&utm_content=stepin654321/MiniProject_Template&utm_campaign=Badge_Grade_Dashboard)
+![Images](5_ImagesandVideos/tictactoe1.png)
 
+## Folder Structure
 
-|Build|Unit Test|cppcheck|Valgrind|Codacy|
-|:--:|:--:|:--:|:--:|:--:|
-|![C/C++ CI](https://github.com/stepin654321/MiniProject_Template/workflows/C/C++%20CI/badge.svg)|![Unit testing](https://github.com/stepin654321/MiniProject_Template/workflows/Unit%20testing/badge.svg)|![cppcheck-action](https://github.com/stepin654321/MiniProject_Template/workflows/cppcheck-action/badge.svg)|![Valgrind](https://github.com/stepin654321/MiniProject_Template/workflows/Valgrind/badge.svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3ac7e2a959a24fa4b5d1b9c1c886ff75)](https://www.codacy.com/manual/stepin654321/MiniProject_Template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=stepin654321/MiniProject_Template&amp;utm_campaign=Badge_Grade)|
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Report`      | Contains Project Report
+`5_ImagesandVideos`| Contains Required Images and Videos for the Project
+`6_Others` | Additional Resources Required for the Project
 
-## Integrated Tools to GitHub
-*  [Codacy](https://www.codacy.com/)
+## Contributors List and Summary
 
-## GitHub Actions
-* Build using Make for CI
-* Unit tests with Cunit
-* Static code analysis using cppcheck
-* Dynamic Code analysis using Valgrind
+PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|---------|----------------|----------------|---------------|-------------|--------------
+`ABC` | 274699 | Feature A, B etc    | X No     | X No   |X No   |X No
+`DEF` | 274699 | Feature C, D etc    | X No     | X No   |X No   |X No
 
+## Challenges Faced and How Was It Overcome
+
+1. ABC
+2. BCD
+
+## Learning Resources
+
+1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
+
+3. [github workflow](https://docs.github.com/en/actions/learn-github-action)
