@@ -13,11 +13,12 @@
 Folder             | Description
 -------------------| -----------------------------------------
 `1_Requirements`   | Documents detailing requirements and research
-`2_Design`         | Documents specifying design details
+`2_Architecture`         | Documents specifying design details
 `3_Implementation` | All code and documentation
-`4_Report`      | Contains Project Report
-`5_ImagesandVideos`| Contains Required Images and Videos for the Project
-`6_Others` | Additional Resources Required for the Project
+`4_Test plan and output` | All test plans and output
+`5_Report`      | Contains Project Report
+`6_ImagesandVideos`| Contains Required Images and Videos for the Project
+`7_Others` | Additional Resources Required for the Project
 
 ## Contributors List and Summary
 
