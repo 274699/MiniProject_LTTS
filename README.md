@@ -1,6 +1,6 @@
 # **SNAKE GAME**
 
-![Images](5_ImagesandVideos/tictactoe1.png)
+![Images](MiniProject_C/6_ImagesAndVideos/front paage.png)
 ## Folder Structure
 
 Folder             | Description
