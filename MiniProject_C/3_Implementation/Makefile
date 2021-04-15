@@ -1,9 +1,9 @@
 PROJECT_NAME = snake
-SRC = Snake-Game.c\
-draw.c\
-input.c\
-logic.c\
-setup.c
+SRC = main.c\
+src\draw.c\
+src\input.c\
+src\logic.c\
+src\setup.c
 
 INC = inc
 
