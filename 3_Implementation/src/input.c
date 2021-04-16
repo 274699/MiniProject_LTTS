@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<conio.h>
 #include "fun.h"
-void input(int flag, int gameover, int pause)
+int input(int flag, int gameover, int pause)
 {
     
 	if(kbhit())
@@ -28,4 +28,8 @@ void input(int flag, int gameover, int pause)
 			 pause=1;
 			 break;
 		}
+		return 1;
 	}
+	else 
+		return 0;
+}

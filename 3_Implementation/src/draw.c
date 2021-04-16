@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include<stdlib.h>
 #include<conio.h>
-void draw(int width, int height, int fruit_x, int fruit_y, int counttail, int tailx[], int taily[], int score, int x, int y)
+int draw(int width, int height, int fruit_x, int fruit_y, int counttail, int tailx[], int taily[], int score, int x, int y)
 {
     
 
@@ -43,4 +43,5 @@ void draw(int width, int height, int fruit_x, int fruit_y, int counttail, int ta
 	}
 	printf("Press W A S D to control the snake and to start the game...\n");
 	printf("SCORE: %d",score);
+	return 1;
 }

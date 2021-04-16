@@ -41,7 +41,7 @@ void setup(int gameover,int x, int y, int width, int height, int fruit_x,int fru
   * @param[in] x 
   * @param[in] y 
   */
-void draw(int width, int height, int fruit_x, int fruit_y, int counttail, int tailx[], int taily[], int score, int x, int y);
+int draw(int width, int height, int fruit_x, int fruit_y, int counttail, int tailx[], int taily[], int score, int x, int y);
 
 /**
  * @brief This function will take input from the player.
@@ -50,7 +50,7 @@ void draw(int width, int height, int fruit_x, int fruit_y, int counttail, int ta
  * @param gameover 
  * @param pause 
  */
-void input(int flag, int gameover, int pause);
+int input(int flag, int gameover, int pause);
 
 /**
  * @brief This function will increase the length of snake and decide the next position of fruit.

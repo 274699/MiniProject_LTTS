@@ -1,10 +1,14 @@
 PROJECT_NAME = snake
+TEST_PROJ_NAME = Test_$(PROJECT_NAME)
 SRC = src\draw.c\
 src\input.c\
 src\logic.c\
 src\setup.c
 
 INC = inc
+INC_T= unity\unity.h\
+unity\unity_internals.h
+TEST_SRC = test.c 
 
 ifdef OS
    RM = del 
@@ -24,6 +28,10 @@ $(PROJECT_NAME): $(SRC)
 	
 run: $(PROJECT_NAME)
 	$(call FixPath,$(PROJECT_NAME).$(EXE))
+
+test:
+	gcc -I $(INC)  $(INC_T) -I $(TEST_SRC)  $(SRC) -o $(call FixPath,$(TEST_PROJ_NAME).$(EXE))
+	./$(call FixPath,$(TEST_PROJ_NAME).$(EXE))
 	
 cppcheck:	
 	cppcheck --enable=all $(SRC) main.c
