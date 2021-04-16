@@ -6,9 +6,10 @@
 
 [![Contribution Check - Git Inspector](https://github.com/274699/MiniProject_LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/274699/MiniProject_LTTS/actions/workflows/gitinspector.yml)
 
-| Build | Unit Test | cppcheck | Valgrind | Codacy |
-| --------- | ------------ | ----------- | ----------------|
-|[![C/C++ CI - Build Status](https://github.com/274699/MiniProject_LTTS/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/274699/MiniProject_LTTS/actions/workflows/c-cpp.yml)|  |[![Code Quality - Static Code - Cppcheck](https://github.com/274699/MiniProject_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/274699/MiniProject_LTTS/actions/workflows/cppcheck.yml)| |[![Code Quality - Static Code - Cppcheck](https://github.com/274699/MiniProject_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/274699/MiniProject_LTTS/actions/workflows/cppcheck.yml)|
+
+Build | Code Quality | Unity | Git Inspector
+|---------|------------|-----------|----------------
+[![C/C++ CI](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml)|[![Static Check](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-cppcheck.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-cppcheck.yml) [![Valgrind-check](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-dynamic-code-quality.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-dynamic-code-quality.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/21c5cae1b5844158b9eb3d4c80125c89)](https://www.codacy.com/gh/arc-arnob/LnT_Mini_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arc-arnob/LnT_Mini_Project&amp;utm_campaign=Badge_Grade) [![Coverage Badge](https://img.shields.io/badge/coverage-98.71%25-blue)]()  | [![Unity-Check](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-unity.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-unity.yml) | [![git inspector CI](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-gitinspector.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-gitinspector.yml)
 
 
 # Project Information
