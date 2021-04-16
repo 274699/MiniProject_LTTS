@@ -1,4 +1,6 @@
-[![Code Quality - Static Code - Cppcheck](https://github.com/274699/MiniProject_Template/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/274699/MiniProject_Template/actions/workflows/cppcheck.yml)|[![C/C++ CI - Build Status](https://github.com/274699/MiniProject_LTTS/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/274699/MiniProject_LTTS/actions/workflows/c-cpp.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/274699/MiniProject_Template/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/274699/MiniProject_Template/actions/workflows/cppcheck.yml)
+
+[![C/C++ CI - Build Status](https://github.com/274699/MiniProject_LTTS/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/274699/MiniProject_LTTS/actions/workflows/c-cpp.yml)
 # Project Information
 ## **SNAKE GAME**
 
