@@ -1,8 +1,5 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a040f55e109b4a6e8ca7789f162e0b00)](https://www.codacy.com/gh/274699/MiniProject_LTTS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=274699/MiniProject_LTTS&amp;utm_campaign=Badge_Grade)
 
-[![Code Quality - Static Code - Cppcheck](https://github.com/274699/MiniProject_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/274699/MiniProject_LTTS/actions/workflows/cppcheck.yml)
-
-[![C/C++ CI - Build Status](https://github.com/274699/MiniProject_LTTS/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/274699/MiniProject_LTTS/actions/workflows/c-cpp.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/274699/MiniProject_LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/274699/MiniProject_LTTS/actions/workflows/gitinspector.yml)
 
