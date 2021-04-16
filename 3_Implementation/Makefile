@@ -35,6 +35,9 @@ test:
 	
 cppcheck:	
 	cppcheck --enable=all $(SRC) main.c
+	
+valgrind:
+	valgrind ./$(TEST_PROJ_NAME).$(EXE)
 
 debug:
 	gcc -I $(INC) $(SRC) main.c -g -o $(PROJECT_NAME).$(EXE)
