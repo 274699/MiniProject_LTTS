@@ -2,7 +2,11 @@
 
 [![C/C++ CI - Build Status](https://github.com/274699/MiniProject_LTTS/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/274699/MiniProject_LTTS/actions/workflows/c-cpp.yml)
 
-[![Contribution Check - Git Inspector](https://github.com/274699/MiniProject_LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/274699/MiniProject_LTTS/actions/workflows/gitinspector.yml)
+[![Contribution Check - Git Inspector](https://github.com/274699/MiniProject_LTTS/actions/workflows/gitinspector.yml/badge.svg)]
+(https://github.com/274699/MiniProject_LTTS/actions/workflows/gitinspector.yml)
+
+|Build|Unit Test|cppcheck|Valgrind|Codacy|
+|:--:|:--:|:--:|:--:|:--:|
 
 # Project Information
 ## **SNAKE GAME**
