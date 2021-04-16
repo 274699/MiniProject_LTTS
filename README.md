@@ -7,8 +7,8 @@
 [![Contribution Check - Git Inspector](https://github.com/274699/MiniProject_LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/274699/MiniProject_LTTS/actions/workflows/gitinspector.yml)
 
 |Build|Unit Test|cppcheck|Valgrind|Codacy|
-|:--:|:--:|:--:|:--:|:-[![Code Quality - Static Code - Cppcheck](https://github.com/274699/MiniProject_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/274699/MiniProject_LTTS/actions/workflows/cppcheck.yml)
--:|
+|:--:|:--:|:--:|:--:|:[![Code Quality - Static Code - Cppcheck](https://github.com/274699/MiniProject_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/274699/MiniProject_LTTS/actions/workflows/cppcheck.yml)
+:|
 
 # Project Information
 ## **SNAKE GAME**
