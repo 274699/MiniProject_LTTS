@@ -6,9 +6,9 @@ src\logic.c\
 src\setup.c
 
 INC = inc
-INC_T= unity\unity.h\
-unity\unity_internals.h
-TEST_SRC = test.c 
+INC_T= unity
+
+TEST_SRC = test\test.c 
 
 ifdef OS
    RM = del 
@@ -30,7 +30,7 @@ run: $(PROJECT_NAME)
 	$(call FixPath,$(PROJECT_NAME).$(EXE))
 
 test:
-	gcc -I $(INC)  $(INC_T) -I $(TEST_SRC)  $(SRC) -o $(call FixPath,$(TEST_PROJ_NAME).$(EXE))
+	gcc -I $(INC) -I $(INC_T) -I $(TEST_SRC)  $(SRC) -o $(call FixPath,$(TEST_PROJ_NAME).$(EXE))
 	./$(call FixPath,$(TEST_PROJ_NAME).$(EXE))
 	
 cppcheck:	
