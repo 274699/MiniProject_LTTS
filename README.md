@@ -40,8 +40,8 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## Challenges Faced and How Was It Overcome
 
-1. ABC
-2. BCD
+1.ABC
+2.BCD
 
 ## Learning Resources
 
